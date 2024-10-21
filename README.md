@@ -20,7 +20,6 @@ Esta es una aplicación de gestión de tareas simple y efectiva que permite a lo
 ## Autores
 
 - Andrea Zuluaga
-- Lizeth Arrigui
 - Jonathan Santos
 - Juan David Franco
 
